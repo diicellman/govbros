@@ -54,7 +54,7 @@ OPENAI_API_KEY=<true or false>
 
 - **`/api/text_to_sql/query`:** Converts natural language queries into SQL.
   - **Method:** POST
-  - **Data:** `query` (string) - The natural language query.
+  - **Data:** `question` (string) - The natural language query.
 
 ## Contributing
 
